@@ -65,7 +65,7 @@ Contact list for important people in college. This would include the following:
 2. Others can directly contact the person using contact details provided on the website.
 3. Post will be removed as soon as the traveling time extends
 
-## 12. QueueOverflosw
+## 12. QueueOverflow
 This would be a stackoverflow specific to DA where you could go and interact with people who have expertise over a particular domain if you get stuck. It would be a question/answer portal
 - All DA-IICT academic specific doubts can be posted here
 - It will be notified to the concerned user once the doubt is answered
