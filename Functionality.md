@@ -11,11 +11,11 @@ The dashboard is an all in one suite consisting of widgets. It will have the fol
 # Widgets
 
 ###### The Widgets are divided into 3 categories:
-1. <a name="barebone">Bare Bone</a>
-2. <a name='2ndpriority'>2nd Priority</a>
+1. Bare Bone
+2. 2nd Priority
 3. 3rd Priority
 
-## [Bare Bone ](#barebone)
+## Bare Bone
 
 ### 1. Webmail:
 * Links updates of unread/read mails to the dashboard. If possible we can also have a feature to block the mails of unwanted groups/clubs or at least have it not appear on the dashboard.
@@ -85,7 +85,7 @@ The students have to register for the course. Students registered can vote the a
 
 
 
-## [2nd Priority](#2ndpriority)
+## 2nd Priority
 
 
 ### 1. Project Tracker:
