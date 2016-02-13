@@ -89,4 +89,7 @@ The students have to register for the course. Students registered can vote the a
  A continuous update at the bottom of the screen showing notifications. Updates will be linked to the actual post. eg new message received, spc updates , doubt answered ,
 
 ## 18. General Purpose Widgets
- All the basic functionalities would be provided as well such as a calculator, weather, calender, etc.
+  All the basic functionalities would be provided as well such as a calculator, weather, calender, etc.
+
+## 19. Poll Widget
+   A poll widget where anyone can ask and answer polls asked by fellow batchmates.
