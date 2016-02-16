@@ -13,6 +13,9 @@ The Sen Survey
   - [ ] Yes
   - [ ] No
 
+ > Which ?
+  
+
 * Are you the kind of person who will `tweak` every setting in your phone to customize according to your need ?
   - [ ] Yes
   - [ ] No
@@ -43,7 +46,19 @@ The Sen Survey
   - [ ] Yes
   - [ ] No
 
+* Would you like a widget which shows you the articles from sections (of entelchy) you have marked as favorite?
+  - [ ] Yes
+  - [ ] No
+
+* Any other particular feature you would like for this widget?
+
+  > Your response
+
 * Do you maintain a TO DO list?
+  - [ ] Yes
+  - [ ] No
+
+* Would a DA specific TO DO list widget help you to take and keep notes of study and college related material in one place?
   - [ ] Yes
   - [ ] No
 
@@ -51,15 +66,19 @@ The Sen Survey
   - [ ] Yes
   - [ ] No
 
+* A place where you can find previous examination paper depending on the course for which you have enrolled?
+    - [ ] Yes
+    - [ ] No
+
 * Would you like a portal where you can find faculty, hostel, electrician, sbg, clubs phone number or location?
-  - [ ] Yes
-  - [ ] No
-  
-* A portal limited to DA-IICT to buy and sell used goods,?
   - [ ] Yes
   - [ ] No
 
 * Will you trust your college people on buying and selling?
+    - [ ] Yes
+    - [ ] No
+      
+* A portal limited to DA-IICT to buy and sell used goods?
   - [ ] Yes
   - [ ] No
 
@@ -67,11 +86,11 @@ The Sen Survey
   - [ ] Yes
   - [ ] No
 
-* A place where you can find previous examination paper?
+* Do you struggle to find time table in the intranet ?
   - [ ] Yes
   - [ ] No
-
-* Do you struggle to find time table in the intranet ?
+ 
+* Would a widget that sends out updates when a professor uploads a lecture in his folder be useful to you? It would particularly give out updates only for the courses in which, you have enrolled.
   - [ ] Yes
   - [ ] No
 
@@ -91,8 +110,11 @@ The Sen Survey
   - [ ] Yes
   - [ ] No
 
-* how about DA-IICT’s weather?
+* How about DA-IICT’s weather?
   - [ ] Yes
   - [ ] No
 
-
+* How about a Carpool widget specific to college students? You can share a ride and post requests for the same.
+    - [ ] Yes
+    - [ ] No
+  
